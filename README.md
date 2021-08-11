@@ -16,4 +16,4 @@ The plasma membrane of a biological cell is a complex organization of numerous t
 
 ------------------
 
-Please make sure to contact Lea Rems (lea.rems@fe.uni-lj.si) or  Lucie Delemotte (lucie.delemotte at scilifelab.se) if you have any questions or suggestions!
+Please make sure to contact Lea Rems (lea.rems at fe.uni-lj.si) or  Lucie Delemotte (lucie.delemotte at scilifelab.se) if you have any questions or suggestions!
