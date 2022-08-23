@@ -2,7 +2,7 @@
 
 **Authors:** Lea Rems, Xinru Tang, Fangwei Zhao, Sergio Pérez-Conesa, Ilaria Testa, Lucie Delemotte
 
-**Publication:** Coming soon :wink:
+**Publication:** Rems, L., Tang, X., Zhao, F., Pérez-Conesa, S., Testa, I., & Delemotte, L. (2022). Identification of electroporation sites in the complex lipid organization of the plasma membrane. Elife, 11, e74773.
 
 In this repository you can find links to our open source code and data:
 + [Type in your title Lea](https://github.com/learems/Electroporation-CGmem-MemSurfer) developed by [Lea Rems](https://www.biophysics.se/index.php/alumni/lea-rems/
